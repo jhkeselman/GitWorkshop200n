@@ -5,6 +5,8 @@ def main():
     tm2 = "Emma!!!" # Teammate 2
     print("Hello, " + tm2)
 
+    print("RBE 2002 is fun")
+
     team = 7 # Team number
     print("Hello, Team " + str(team))
 
