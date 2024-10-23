@@ -6,6 +6,7 @@ def main():
     print("Hello, " + tm2)
 
     print("RBE 2002 is fun")
+    print("I am excited to learn Python")
 
     team = 7 # Team number
     print("Hello, Team " + str(team))
