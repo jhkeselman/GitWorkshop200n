@@ -1,6 +1,6 @@
 def main():
     print("Hello, World!")
-    tm1 = "" # Teammate 1
+    tm1 = "Josh" # Teammate 1
     print("Hello, " + tm1)
     tm2 = "" # Teammate 2
     print("Hello, " + tm2)
