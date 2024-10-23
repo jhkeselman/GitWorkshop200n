@@ -9,6 +9,7 @@ def main():
     print("I am excited to learn Python")
     print ("I messed up")
     print("test 1")
+    print("test 2")
 
     team = 7 # Team number
     print("Hello, Team " + str(team))
