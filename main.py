@@ -5,7 +5,7 @@ def main():
     tm2 = "Emma!!!" # Teammate 2
     print("Hello, " + tm2)
 
-    team = -1 # Team number
+    team = 8 # Team number
     print("Hello, Team " + str(team))
 
 if __name__ == "__main__":
